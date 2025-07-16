@@ -29,14 +29,6 @@ Each project is self-contained in its own folder with its own README, code, data
 
 ---
 
-## 🚀 Upcoming Projects (Planned)
-- 👁️‍🗨️ Sign Language Recognition System
-- 🧠 Mental Health Detection from Text & Speech
-- 🦠 COVID-19 Chest X-ray Classification
-- 🤖 Object Detection for the Visually Impaired
-
----
-
 ## 🛠 Tech Stack
 
 - **Frameworks**: TensorFlow, PyTorch
